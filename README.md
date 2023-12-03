@@ -27,3 +27,4 @@ npm install
 
 PHP Script
 Execute the PHP script with the desired ETF screener URL:
+![result](https://github.com/raiviskk/ETF-Data-Scraper/blob/main/Screenshot%202023-12-03%20at%2019.51.07.png)
